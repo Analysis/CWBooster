@@ -24,7 +24,7 @@ import scripts.red_CWBooster.Tasks.Task;
 import scripts.red_CWBooster.Tasks.TaskManager;
 
 
-@ScriptManifest(authors = "Red_Spark", category = "Test", name = "Red_CWBooster", version = 0.5)
+@ScriptManifest(authors = "skengrat", category = "Test", name = "CWBooster", version = 0.5)
 public class Main extends Script implements Painting{
 
 	private final boolean DEBUG = true;
